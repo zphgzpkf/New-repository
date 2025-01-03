@@ -1,5 +1,5 @@
 
-
+rivalz run
 # 设置 crontab 任务
 CRON_COMMAND="0 */6 * * * screen -dmS znoderivalz bash -c 'rivalz run; exec bash'"
 
